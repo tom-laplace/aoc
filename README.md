@@ -20,7 +20,7 @@ Simple repository to do AoC in Typescript with some automations.
 - Creating setup for the current day:
 
 ```bash
-❯ node ace aoc:create     
+❯ node ace aoc:create
 [ info ] Creating files for Year: 2025, Day: 01
 [ info ] Created input file for Year 2025, Day 01.
 [ info ] Created solution file for Year 2025, Day 01.
